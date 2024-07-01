@@ -8,5 +8,7 @@ This assignments will be cover following topics :
 3. Central Tendency Data (Mean, Median, Mode)
 4. Dispersion Data (IQR, Range, Standard Deviation, Variance)
 5. Shape of Data (Skewness, Kurtosis)
-6. Normal Distribution
-7. Confidence Interval
+6. BoxPlot and Histograms
+7. Describing the Inference
+8. Normal Distribution
+9. Confidence Interval
