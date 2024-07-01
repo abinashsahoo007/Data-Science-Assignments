@@ -13,9 +13,9 @@ Association rule learning works on the concept of If and Else Statement, such as
 3. Lift
    
 ### This assignment will study following Questions :
-**Statement No 1 :** Prepare rules for the **"books"** data sets :
+**Problem Statement 1 :** Prepare rules for the **"books"** data sets :
 
-**Statement No 2 :** Prepare rules for the **"my_movies"** data sets :
+**Problem Statement 2 :** Prepare rules for the **"my_movies"** data sets :
 
 1. Try different values of support and confidence. Observe the change in number of rules for different support, confidence values.
 
