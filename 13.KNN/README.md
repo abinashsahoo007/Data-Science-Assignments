@@ -14,6 +14,7 @@ KNN is also a non-parametric learning algorithm because it doesn’t assume anyt
 
 ## This assignment will study following Questions :
 **1.Problem Statement-1 :** Prepare a model for glass classification using KNN **"glass dataset"** <br>
+
 **Data Description :**
 
 RI : refractive index ... Na: Sodium ... Mg: Magnesium
