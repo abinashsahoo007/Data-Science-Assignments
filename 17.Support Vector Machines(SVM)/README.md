@@ -20,4 +20,4 @@ Classify the Size Categorie using SVM (forestfires.csv) - the burned area of the
 
 **Problem Statement No 2 :**
 
-Prepare a classification model using SVM for salary data. <br> **"salary data"**
+Prepare a classification model using SVM for salary data. <br> **"salary dataset"**
