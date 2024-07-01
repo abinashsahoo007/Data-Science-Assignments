@@ -1,4 +1,6 @@
-# Multiple linear regression :
+# Assignment05-Multiple-Linear-Regression
+
+## Multiple linear regression :
 Multiple linear regression is used to estimate the relationship between two or more independent variables and one dependent variable. You can use multiple linear regression when you want to know:
 
 1. How strong the relationship is between two or more independent variables and one dependent variable (e.g. how rainfall, temperature, and amount of fertilizer added affect crop growth).
