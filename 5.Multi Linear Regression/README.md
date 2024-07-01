@@ -1,4 +1,5 @@
 # Assignment05-Multiple-Linear-Regression
+ExcelR Data Science Assignment No 5
 
 ## Multiple linear regression :
 Multiple linear regression is used to estimate the relationship between two or more independent variables and one dependent variable. You can use multiple linear regression when you want to know:
