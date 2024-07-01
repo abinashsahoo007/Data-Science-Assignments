@@ -9,9 +9,9 @@ Sentiment analysis returns a sentiment score between 0 and 1 for each set of tex
 
 ### This assignment will study following Questions :
 
-**1.Problem Statement :** Perform sentimental analysis on the Elon-musk tweets **(Elon-musk.csv)**
+**Problem Statement-1 :** Perform sentimental analysis on the Elon-musk tweets **(Elon-musk.csv)**
 
 
-**2.Problem Statement :** <br>
+**Problem Statement-2 :** <br>
 a. Extract reviews of any product from ecommerce website like amazon <br>
 b. Perform emotion mining **(amazon-review.xlsx)**
