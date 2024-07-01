@@ -29,5 +29,5 @@ Forecast the Airlines Passengers data set. Prepare a document for model explaini
 
 **Problem Statement No 2 :** <br>
 
-Forecast the CocaCola prices data set. Prepare a document for model explaining. How many dummy variables you have created and RMSE value for model. Finally which model you will use for Forecasting. <br> **"cocacola_sales_rawdata"**
+Forecast the CocaCola prices data set. Prepare a document for model explaining. How many dummy variables you have created and RMSE value for model. Finally which model you will use for Forecasting. <br> **"cocacola_sales_rawdata.xlsx"**
 
